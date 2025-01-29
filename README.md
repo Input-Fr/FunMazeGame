@@ -9,10 +9,10 @@ A simple maze game built in **Unity** that generates a unique maze every time it
 
 ## 📸 Screenshots
 ### Top-Down View of Generated Maze
-![Top-Down Maze](images/maze_top_view.png)
+![Top-Down Maze](images/topview.png)
 
 ### Player’s Perspective
-![First-Person View](images/maze_player_view.png)
+![First-Person View](images/fpview.png)
 
 ## 🛠️ How to Play
 1. **Launch the game** - The maze will generate randomly.
