@@ -26,12 +26,12 @@ A simple maze game built in **Unity** that generates a unique maze every time it
 3. Press **Play** in the Unity Editor or build an executable version.
 
 ## 🏆 Future Enhancements
-- **Time-based challenges** ⏳
-- **Multiplayer mode** 👫
-- **Different maze sizes & themes** 🏰🌲
+- **Time-based challenges** 
+- **Multiplayer mode** 
+- **Different maze sizes & themes**
 
 ## 📜 License
 This project is open-source and available under the MIT License.
 
 ---
-🚀 Have fun exploring the maze! Let me know if you encounter any issues or have suggestions.
+Have fun exploring the maze !
