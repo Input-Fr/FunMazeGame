@@ -16,7 +16,7 @@ A simple maze game built in **Unity** that generates a unique maze every time it
 
 ## 🛠️ How to Play
 1. **Launch the game** - The maze will generate randomly.
-2. **Use WASD or Arrow Keys** - Move around the maze.
+2. **Use WASD** - Move around the maze.
 3. **Find the exit** - Explore and solve the maze.
 4. **Restart** - Relaunch the game for a new maze layout.
 
